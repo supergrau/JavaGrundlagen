@@ -66,7 +66,8 @@ public class Kontakt {
 		return counter;
 	}
 
-	protected void finalize() {
+	@Override
+    protected void finalize() {
 		System.out.println("Destruktor: " + this.name);
 	}
 }
