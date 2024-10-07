@@ -8,7 +8,7 @@ import javax.swing.*;
 public class MagicSquare {
     public static void main(String[] args) {
         // Input
-         int n = 0;
+        int n = 0;
         while ((n % 2 == 0) || (n > 9) || (n < 3)) {
             n = Integer.parseInt(JOptionPane.showInputDialog("Bitte einen ungeraden, ganzzahligen Wert zwischen 2 und 10 eingeben"));
         }
