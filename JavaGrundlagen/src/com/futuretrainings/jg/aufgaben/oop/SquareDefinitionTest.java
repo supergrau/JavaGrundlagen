@@ -1,5 +1,8 @@
 package com.futuretrainings.jg.aufgaben.oop;
 
+/**
+ * Comment...
+ */
 public class SquareDefinitionTest {
     public static void main(String[] args) {
         SquareDefinition sd = new SquareDefinition(10);

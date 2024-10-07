@@ -1,5 +1,8 @@
 package com.futuretrainings.jg.aufgaben.oop;
 
+/**
+ * Comment...
+ */
 public class SquareDefinition {
     int a;
 

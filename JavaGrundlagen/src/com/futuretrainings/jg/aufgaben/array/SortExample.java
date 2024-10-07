@@ -3,6 +3,9 @@ package com.futuretrainings.jg.aufgaben.array;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * Example for Arrays.sort
+ */
 public class SortExample {
     public static void main(String[] args) {
         int count;
