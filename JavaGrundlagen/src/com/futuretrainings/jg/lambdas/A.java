@@ -1,7 +1,7 @@
 package com.futuretrainings.jg.lambdas;
 
 public class A {
-    private int final i;
+    private final int i;
 
     public A(int i) {
         this.i = i;
